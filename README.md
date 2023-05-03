@@ -31,6 +31,13 @@ Jogo da velha (Tic Tac Toe) em Python e implementado em dois algoritmos diferent
 python jogoDaVelha_IA.py
 ```
 
+
+```
+git status
+git add
+git commit
+```
+
 ### 🛠 Tecnologias
 <UL>
   <LI>Linguagem Python</LI>
