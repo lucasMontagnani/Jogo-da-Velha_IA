@@ -10,7 +10,7 @@ Jogo da velha (Tic Tac Toe) em Python e implementado em dois algoritmos diferent
 
 <p>- O algoritmo Alpha-Beta Pruning é uma variação do algoritmo Minimax que poda partes da árvore de busca que não precisam ser exploradas, o que reduz o número de nós visitados e acelera o algoritmo.</p>
 
-### Regras do Jogo Da Velha
+### 📖 Regras do Jogo Da Velha
 <p>O jogo é jogado em um tabuleiro 3x3, onde dois jogadores se revezam para colocar seu símbolo (seja 'X' ou 'O') em uma célula vazia. O jogador que primeiro conseguir três de seus símbolos em sequência (horizontalmente, verticalmente ou diagonalmente) ganha o jogo. Se todas as células forem preenchidas e nenhum jogador tiver vencido, o jogo termina empatado.</p>
 
 ### ⚙️ Features
@@ -21,15 +21,15 @@ Jogo da velha (Tic Tac Toe) em Python e implementado em dois algoritmos diferent
 - [x] IA Vs IA (Poda Alfa Beta Minimax)
 
 ### 📷 Demonstração da aplicação
-<img alt="Menu" src="/readme_images/menu.JPG"/>
-<img alt="Singleplayer" src="/readme_images/gameplay.JPG"/>
+<img alt="Menu" src="/readme_images/menu.jpg"/>
+<img alt="Singleplayer" src="/readme_images/gameplay.jpg"/>
 
 ### 🚀 Instalação/Pré-requisitos
 <p>Para executar este projeto é necessário apenas ter instalado o Python 3 em seu computador. Você pode baixar o Python no site oficial python.org</p>
 <p>Depois de instalar o Python e as bibliotecas necessárias, você pode executar o jogo executando o arquivo jogoDaVelha_IA.py em um ambiente Python:</p>
-'''
+```
 python jogoDaVelha_IA.py
-'''
+```
 
 ### 🛠 Tecnologias
 <UL>
