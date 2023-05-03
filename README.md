@@ -27,15 +27,10 @@ Jogo da velha (Tic Tac Toe) em Python e implementado em dois algoritmos diferent
 ### 🚀 Instalação/Pré-requisitos
 <p>Para executar este projeto é necessário apenas ter instalado o Python 3 em seu computador. Você pode baixar o Python no site oficial python.org</p>
 <p>Depois de instalar o Python e as bibliotecas necessárias, você pode executar o jogo executando o arquivo jogoDaVelha_IA.py em um ambiente Python:</p>
+
+
 ```
 python jogoDaVelha_IA.py
-```
-
-
-```
-git status
-git add
-git commit
 ```
 
 ### 🛠 Tecnologias
