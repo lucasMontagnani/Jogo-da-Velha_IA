@@ -1,10 +1,10 @@
 # Jogo-da-Velha_IA
-Jogo da velha (Tic Tac Toe) em Python e implementado em dois algoritmos diferentes: Minimax e Poda Alfa Beta
+Jogo da velha (Tic Tac Toe) em Python, implementado em dois algoritmos diferentes: Minimax e Poda Alfa Beta
 
 ### 💻 Sobre
 <p>Este projeto teve como finalidade ser um trabalho para entrega da aula de Inteligência Artificial da minha Universidade (UFABC).</p>
 
-<p>No jogo, o oponente IA do jogo usa o algoritmo Minimax ou Alpha-Beta Pruning para fazer seus movimentos, dependendo do modo de jogo selecionado.</p>
+<p>No jogo, o oponente IA usa o algoritmo Minimax ou Alpha-Beta Pruning para fazer seus movimentos, dependendo do modo de jogo selecionado.</p>
 
 <p>- O algoritmo Minimax é um algoritmo de tomada de decisão que pesquisa todas as jogadas futuras possíveis e escolhe aquela que maximiza suas chances de vitória, assumindo que o oponente também jogará de maneira otimizada.</p>
 
